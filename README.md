@@ -155,7 +155,7 @@ Run the binary (`Run → Run 'AwesomeDemo'`) – a window titled *“Vulkan + Im
 
 ---
 
-## 📁 Project Layout Explained
+## Project Layout Explained
 
 ```
 AwesomeDemo/
@@ -176,7 +176,7 @@ AwesomeDemo/
 
 ---
 
-## 🔄 Updating Submodules / Adding New Dependencies
+## Updating Submodules / Adding New Dependencies
 
 ### Update existing ones
 ```bash
