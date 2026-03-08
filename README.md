@@ -78,7 +78,7 @@ The script will:
 * generate `CMakeLists.txt` and a tiny demo source file,
 * open CLion on the new folder.
 
-Now press **⌘ ⇧ B** in CLion → *Build Project*. 🎉
+Now press **⌘ ⇧ B** in CLion → *Build Project*. 
 
 ---
 
