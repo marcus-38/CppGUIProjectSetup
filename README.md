@@ -231,7 +231,7 @@ If you encounter something else, feel free to open an issue on the repository â€
 ```text
 MIT License
 
-Copyright (c) 2026 marcus@r38.se
+Copyright (c) 2026 marcus-38
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
